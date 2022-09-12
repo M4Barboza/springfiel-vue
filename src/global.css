@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "simpson";
+  src: url("@/assets/fonts/Homer_Simpson_Revised.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
